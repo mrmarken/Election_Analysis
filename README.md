@@ -19,6 +19,10 @@ Our team is tasked with providing the following data to complete the election au
 
 ## Project Summary
 
+![Election Results Overview](https://github.com/mrmarken/Election_Analysis/blob/main/Resources/Election%20Results.png)
+
+*Fig.1 - Election Results Overview*
+
 ### Results by Candidtate
 The analysis of the election show that:
 - There 369,711 votes cast in the election
